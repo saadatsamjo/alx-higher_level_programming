@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-clas Rectangle:
+class Rectangle:
     def __init__(self):
         pass
